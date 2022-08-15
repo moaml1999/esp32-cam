@@ -20,5 +20,11 @@
 | U0R | RX |
 | U0T | TX |
   
+  
+## Installing the Esp32 Library & determine board : 
+ 
+- Install the Esp32 library by going to “Tools > Board > Boards Manager > Search for Esp32 > Install Esp32 from Espressif Systems”.
+- Select the right board: “Tools > Board > ESP32 Arduino > AI Thinker ESP32-CAM”.
+
 ![Esp32_cam_schematic_diagram](https://github.com/moaml1999/esp32-cam/blob/main/esp32_cam_arduino_connection.jpg)
 
